@@ -1,4 +1,4 @@
-![IMG_3909](https://github.com/user-attachments/assets/c3a11342-11bd-414d-9005-e741962d4ff0)![IMG_3910](https://github.com/user-attachments/assets/354fa424-1faf-4a64-af63-8909bcf2d0d6)![IMG_3909](https://github.com/user-attachments/assets/f9973893-ad99-41df-9973-837a2ece4efc)
+
 # 🚨 Rescue Nexus
 
 **Rescue Nexus** is an intelligent emergency vehicle tracking and alert system designed to enhance road safety and reduce ambulance response times. It leverages real-time GPS tracking, ESP32-based proximity alerts, and a responsive user interface to notify nearby drivers, helping clear the path quickly and save lives.
